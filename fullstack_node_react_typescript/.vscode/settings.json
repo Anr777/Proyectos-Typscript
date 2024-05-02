@@ -1,0 +1,6 @@
+{
+  "eslint.problems.shortenToSingleLine": false,
+  "editor.cursorStyle": "line",
+  "editor.cursorSmoothCaretAnimation": "off",
+  "editor.fontFamily": "'Cascadia Code PL'"
+}
